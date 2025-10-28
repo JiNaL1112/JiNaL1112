@@ -3,9 +3,7 @@
 🚀 **DevOps Engineer | Cloud Engineer | Platform Engineer**  
 ☁️ **Azure | AWS | Terraform | Kubernetes | CI/CD | Docker | Azure DevOps | Monitoring | Security**
 
----
 
-## 🔧 About Me  
 
 I'm a passionate **DevOps & Cloud Engineer** with nearly **3 years of hands-on experience** in building, automating, and optimizing scalable cloud infrastructures.  
 I specialize in **Azure** and **multi-cloud environments**, leveraging **Infrastructure as Code (IaC)**, **CI/CD automation**, and **Kubernetes orchestration** to deliver high-performing, secure, and cost-effective solutions.  
@@ -59,37 +57,13 @@ I love transforming complex challenges into streamlined, automated systems that 
 - 🔷 **Microsoft Certified: Azure Administrator Associate (AZ-104)**  
 - 🛠️ **HashiCorp Certified: Terraform Associate (003)**  
 
----
-
-## 🧰 Tech Stack  
-
-**Cloud Platforms:** Azure, AWS  
-**IaC Tools:** Terraform, ARM, Bicep, CloudFormation  
-**Containers:** Docker, Kubernetes (AKS/EKS), Helm  
-**CI/CD Tools:** Azure DevOps, GitHub Actions, Jenkins  
-**Monitoring:** Azure Monitor, Log Analytics, Prometheus, Grafana  
-**Security:** Azure AD, RBAC, Key Vault, Defender for Cloud  
-**Languages & Scripting:** PowerShell, Bash, Python, YAML, JSON  
-**Version Control:** Git, GitHub, Azure Repos, Bitbucket  
-
----
-
-## 🎓 Education  
-
-🎓 **Postgraduate in Mobile Solutions Development**  
-*Conestoga College, Canada* (May 2023 – Aug 2024)  
-
-🎓 **Bachelor’s in Computer Engineering**  
-*Vishwakarma Government Engineering College, India* (May 2017 – Aug 2021)  
 
 ---
 
 ## 📫 Get in Touch  
 
 🌐 [**LinkedIn**](https://www.linkedin.com/in/jinalbenp/)  
-📧 **pateljinalben5521@gmail.com**  
-📞 **+1 (365) 808-5159**  
-📍 **Canada**
+📧 **pateljinalben5521@gmail.com**   
 
 ---
 
