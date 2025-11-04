@@ -62,7 +62,8 @@ I love transforming complex challenges into streamlined, automated systems that 
 
 ## 📫 Get in Touch  
 
-🌐 [**LinkedIn**](https://www.linkedin.com/in/jinalbenp/)  
+🌐 [**LinkedIn**](https://www.linkedin.com/in/jinalbenp/) 
+📝 [**Read my articles on Medium**](https://medium.com/@jinalpatel11121999)  
 📧 **pateljinalben5521@gmail.com**   
 
 ---
